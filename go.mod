@@ -1,4 +1,4 @@
-module github.com/cloudflare/bn256
+module github.com/pedroalbanese/bn256
 
 go 1.14
 
